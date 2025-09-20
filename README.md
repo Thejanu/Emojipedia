@@ -37,7 +37,7 @@ emojipedia/
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/Thejanu/emojipedia.git
+git clone https://github.com/Thejanu/Emojipedia.git
 cd emojipedia
 npm install
 ```
