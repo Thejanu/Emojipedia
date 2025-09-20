@@ -17,7 +17,7 @@ This project was created as part of my React learning journey.
 ## 📂 Project Structure
 
 ```
-emojipedia/
+Emojipedia/
 ├── public/               # Static assets
 ├── src/
 │   ├── components/
@@ -38,7 +38,7 @@ Clone this repository and install dependencies:
 
 ```bash
 git clone https://github.com/Thejanu/Emojipedia.git
-cd emojipedia
+cd Emojipedia
 npm install
 ```
 
